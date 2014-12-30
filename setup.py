@@ -19,7 +19,7 @@ setup(
         'amqp==1.3.3',
         'anyjson==0.3.3',
         'argparse==1.2.1',
-        'billiard==3.3.0.13',
+        'billiard==3.3.0.19',
         'celery==3.1.17',
         'distribute==0.6.24',
         'dj-database-url==0.2.2',
